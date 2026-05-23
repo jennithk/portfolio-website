@@ -51,3 +51,6 @@ Lighthouse Scores
 Author
 
 Jennith
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10731bf5-0345-4360-9401-fe8084ab30c0" />
+
